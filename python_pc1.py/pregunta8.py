@@ -1,0 +1,1 @@
+hora_de_comida=input("¿Que hora estas comiendo?")
